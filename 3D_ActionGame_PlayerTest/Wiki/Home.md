@@ -11,17 +11,11 @@ Unity 6000.3.18f1 で `3D_ActionGame_PlayerTest` を開き、`Assets/SampleScene
 ## スライドで紹介している 7 つの演出
 
 1. **ヒットストップ:** 攻撃が当たった瞬間、ゲーム内の時間を短く止めます。強い攻撃ほど長く止まり、重さが伝わります。
-
 2. **ヒットエフェクト:** 命中した場所に火花や光を出します。攻撃の強さを目でも確かめられます。
-
 3. **カメラシェイク:** 命中した瞬間に画面を揺らし、衝撃を伝えます。
-
 4. **ダメージフラッシュ:** 攻撃を受けた敵を一瞬白く光らせます。敵が複数いても、当たった相手を見分けやすくします。
-
 5. **のけぞりと揺れ戻り:** 敵の体を攻撃された方向へ傾け、揺らして元の姿勢へ戻します。押し戻しも加わり、攻撃が効いたことを動きで伝えます。
-
 6. **予備動作と緩急:** 攻撃の前に少しためてから振り抜きます。動きに差をつけ、攻撃を鋭く、重く見せます。
-
 7. **画面効果:** 大技の瞬間に画面をぼかし、ゆがませます。ここが決め技だと一目で分かるようにします。
 
 ## 気持ちよさを支える 3 つの考え方
@@ -53,6 +47,7 @@ Unity 6000.3.18f1 で `3D_ActionGame_PlayerTest` を開き、`Assets/SampleScene
 
 - [始め方と操作](https://github.com/R-production004682/3D_ActionGame_CombatTest/wiki/Getting-Started)
 - [戦闘とコンボ](https://github.com/R-production004682/3D_ActionGame_CombatTest/wiki/Combat)
-- [ヒット演出の見方](https://github.com/R-production004682/3D_ActionGame_CombatTest/wiki/Hit-Feel)
+- [ヒット演出と切り替え項目](https://github.com/R-production004682/3D_ActionGame_CombatTest/wiki/Hit-Feel)
+- [演出パラメータ一覧](https://github.com/R-production004682/3D_ActionGame_CombatTest/wiki/Effect-Parameters)
 - [開発と調整](https://github.com/R-production004682/3D_ActionGame_CombatTest/wiki/Development)
 - [困ったとき](https://github.com/R-production004682/3D_ActionGame_CombatTest/wiki/Troubleshooting)
