@@ -23,4 +23,8 @@ Unity Hub で `3D_ActionGame_PlayerTest` フォルダーを Unity 6000.3.18f1 �
 
 ## Wiki
 
-操作や機能の説明は [Wiki](3D_ActionGame_PlayerTest/Wiki/Home.md) を見てください。
+詳しい説明は Wiki をご覧ください。
+
+- [Wiki トップ](3D_ActionGame_PlayerTest/Wiki/Home.md)
+- [ヒット演出と切り替え項目](3D_ActionGame_PlayerTest/Wiki/Hit-Feel.md)
+- [演出パラメータ一覧](3D_ActionGame_PlayerTest/Wiki/Effect-Parameters.md)
